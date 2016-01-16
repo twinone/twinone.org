@@ -1,0 +1,6 @@
+*.tar
+*.gz
+*.o
+*/ec/mars/*
+upc/c2/pro2/jutge/tools/.cookie
+upc/c2/pro2/jutge/obj/*
